@@ -163,4 +163,4 @@ cython_debug/
 .DS_Store
 
 #ignore config.py
-config.py
+config.js
