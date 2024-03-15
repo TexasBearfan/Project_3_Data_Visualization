@@ -44,7 +44,8 @@ let overlayMaps={
 let myMap = L.map("map", {
     center: [30.7, -100.5],
     zoom: 4,
-    layers:[street,heat]
+    layers:[street,heat],
+    intensity:100
   });
   L.control.layers(BaseMaps,overlayMaps,{
     collapsed:false
