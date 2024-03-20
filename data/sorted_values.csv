@@ -1,200 +1,1219 @@
-,Park Name,Cause of Death
-0,Lake Mead National Recreation Area,304
-1,Grand Canyon National Park,185
-2,Yosemite National Park,173
-3,Natchez Trace Parkway,150
-4,Golden Gate National Recreation Area,142
-5,Great Smoky Mountains National Park,134
-6,Blue Ridge Parkway,131
-7,Glen Canyon National Recreation Area,121
-8,Sequoia & Kings Canyon National Parks,91
-9,New River Gorge National River,85
-10,Cape Hatteras National Seashore,77
-11,Mount Rainier National Park,74
-12,Yellowstone National Park,70
-13,Baltimore-Washington Parkway,69
-14,Denali National Park & Preserve,65
-15,Rocky Mountain National Park,65
-16,Grand Teton National Park,64
-17,Death Valley National Park,62
-18,Gateway National Recreation Area,58
-19,Zion National Park,56
-20,Delaware Water Gap National Recreation Area,52
-21,Chattahoochee River National Recreation Area,51
-22,National Mall & Memorial Parks,50
-23,Buffalo National River,49
-24,George Washington Memorial Parkway,46
-25,Suitland,46
-26,Olympic National Park,45
-27,Glacier National Park,42
-28,Gulf Islands National Seashore,40
-29,Shenandoah National Park,40
-30,Virgin Islands National Park,39
-31,Point Reyes National Seashore,38
-32,Lake Roosevelt National Recreation Area,33
-33,Upper Delaware Scenic & Recreational River,33
-34,Chesapeake & Ohio Canal National Historical Park,32
-35,Big Bend National Park,31
-36,Joshua Tree National Park,31
-37,Rock Creek Park,31
-38,Colorado National Monument,29
-39,Acadia National Park,29
-40,Indiana Dunes National Park,28
-41,Cuyahoga Valley National Park,28
-42,Redwood National and State Parks,27
-43,North Cascades National Park,26
-44,Little River Canyon National Preserve,23
-45,Cape Cod National Seashore,23
-46,Ozark National Scenic Riverways,21
-47,Curecanti National Recreation Area,20
-48,Lake Meredith National Recreation Area,20
-49,Saint Croix National Scenic Riverway,20
-50,Canyonlands National Park,20
-51,Mojave National Preserve,19
-52,Saguaro National Park,19
-53,Colonial National Historical Park,18
-54,Presidio of San Francisco,18
-55,Big South Fork National River and Recreation Area,17
-56,Biscayne National Park,17
-57,Padre Island National Seashore,16
-58,Big Thicket National Preserve,16
-59,Whiskeytown National Recreation Area,15
-60,Everglades National Park,15
-61,Great Falls Park,14
-62,Haleakala National Park,14
-63,Anacostia Park,14
-64,Hawaii Volcanoes National Park,14
-65,Channel Islands National Park,14
-66,Assateague Island National Seashore,13
-67,Arches National Park,13
-68,Great Falls,13
-69,Big Cypress National Preserve,12
-70,Santa Monica Mountains National Recreation Area,12
-71,Amistad National Recreation Area,11
-72,Appalachian National Scenic Trail,11
-73,Apostle Islands National Lakeshore,10
-74,Crater Lake National Park,10
-75,Dinosaur National Monument,10
-76,Mammoth Cave National Park,10
-77,Gauley River National Recreation Area,10
-78,Canaveral National Seashore,10
-79,Valley Forge National Historical Park,9
-80,Wrangell - St Elias National Park & Reserve,9
-81,Chickasaw National Recreation Area,9
-82,Bighorn Canyon National Recreation Area,8
-83,Harpers Ferry National Historical Park,8
-84,Badlands National Park,8
-85,Pictured Rocks National Lakeshore,8
-86,Glacier Bay National Park & Preserve,7
-87,Chickamauga & Chattanooga National Military Park,7
-88,Cumberland Gap National Historical Park,7
-89,Sleeping Bear Dunes National Lakeshore,7
-90,Capitol Reef National Park,7
-91,Organ Pipe Cactus National Monument,6
-92,Fredericksburg & Spotsylvania National Military Park,6
-93,Black Canyon Of The Gunnison National Park,6
-94,Mount Rushmore National Memorial,6
-95,National Capital Parks-East,6
-96,Dry Tortugas National Park,6
-97,Pinnacles National Park,6
-98,Katmai National Park & Preserve,6
-99,Sleeping Bear DunesNational Lakeshore,6
-100,White Sands National Park,6
-101,Clara Barton National Historic Site,6
-102,Kennesaw Mountain National Battlefield Park,6
-103,Cape Lookout National Seashore,6
-104,Guadalupe Mountains National Park,6
-105,Hot Springs National Park,5
-106,Great Sand Dunes National Park & Preserve,5
-107,Jean Lafitte National Historical Park & Preserve,5
-108,Wilson's Creek National Battlefield,5
-109,Fire Island National Seashore,5
-110,Mesa Verde National Park,5
-111,Saint Croix Island International Historic Site,5
-112,Niobrara National Scenic River,4
-113,Obed Wild & Scenic River,4
-114,Independence National Historical Park,4
-115,San Antonio Missions National Historical Park,4
-116,Catoctin Mountain Park,4
-117,Craters Of The Moon National Monument & Preserve,4
-118,Voyageurs National Park,4
-119,Wind Cave National Park,4
-120,Missouri National Recreational River,4
-121,Lassen Volcanic National Park,4
-122,Lake Clark National Park & Preserve,4
-123,Gettysburg National Military Park,3
-124,El Malpais National Monument,3
-125,Bandelier National Monument,3
-126,San Francisco Maritime National Historical Park,3
-127,Prince William Forest Park,3
-128,Boston National Historical Park,3
-129,Fort Dupont Park,3
-130,Kenilworth Park & Aquatic Gardens,3
-131,Richmond National Battlefield Park,3
-132,Mississippi National River & Recreation Area,3
-133,Coronado National Memorial,3
-134,Manassas National Battlefield Park,3
-135,Bryce Canyon National Park,3
-136,Petroglyph National Monument,3
-137,Petersburg National Battlefield,3
-138,Piscataway Park,2
-139,Little Bighorn Battlefield National Monument,2
-140,Saratoga National Historical Park,2
-141,First State National Historical Park,2
-142,Scotts Bluff National Monument,2
-143,Castillo De San Marcos National Monument,2
-144,Theodore Roosevelt National Park,2
-145,Isle Royale National Park,2
-146,Golden Spike National Historical Park,2
-147,Carlsbad Caverns National Park,2
-148,Pea Ridge National Military Park,2
-149,Fort Foote Park,2
-150,George Washington Birthplace,2
-151,Minute Man National Historical Park,2
-152,Lincoln Memorial,2
-153,Fort Pulaski National Monument,2
-154,Morristown National Historical Park,2
-155,Lowell National Historical Park,2
-156,Fort Bowie National Historic Site,2
-157,Yorktown Battlefield Part of Colonial National Historical Park,1
-158,Lava Beds National Monument,1
-159,Great Basin National Park,1
-160,Statue Of Liberty National Monument,1
-161,Cumberland Island National Seashore,1
-162,American Memorial Park,1
-163,Thomas Jefferson Memorial,1
-164,Gila Cliff Dwellings National Monument,1
-165,Hovenweep National Monument,1
-166,Wupatki National Monument,1
-167,Governors Island National Monument,1
-168,Kaloko-Honokohau National Historical Park,1
-169,Fort Vancouver National Historic Site,1
-170,Walnut Canyon National Monument,1
-171,Congaree National Park,1
-172,Canyon De Chelly National Monument,1
-173,Fort Washington Park,1
-174,Lyndon B Johnson National Historical Park,1
-175,Florissant Fossil Beds National Monument,1
-176,Home Of Franklin D Roosevelt National Historic Site,1
-177,Monocacy National Battlefield,1
-178,Paterson Great Falls National Historical Park,1
-179,Oxon Cove Park & Oxon Hill Farm,1
-180,Pecos National Historical Park,1
-181,Buck Island Reef National Monument,1
-182,Friendship Hill National Historic Site,1
-183,Greenbelt Park,1
-184,Bluestone National Scenic River,1
-185,Christiansted National Historic Site,1
-186,President's Park (White House),1
-187,Hopewell Culture National Historical Park,1
-188,Prince William Forest,1
-189,Glen Echo Park,1
-190,Cabrillo National Monument,1
-191,Eisenhower National Historic Site,1
-192,Muir Woods National Monument,1
-193,Klondike Gold Rush National Historical Park,1
-194,Kings Mountain National Military Park,1
-195,Allegheny Portage Railroad National Historic Site,1
-196,San Juan Island National Historical Park,1
-197,Devils Tower National Monument,1
-198,El Morro National Monument,1
+,Park Name,Year,Cause of Death
+0,Lake Mead National Recreation Area,2021,26
+1,Grand Canyon National Park,2014,26
+2,Lake Mead National Recreation Area,2017,26
+3,Lake Mead National Recreation Area,2022,24
+4,Yosemite National Park,2017,22
+5,Lake Mead National Recreation Area,2010,22
+6,Blue Ridge Parkway,2018,21
+7,Lake Mead National Recreation Area,2014,21
+8,Lake Mead National Recreation Area,2019,21
+9,Natchez Trace Parkway,2017,20
+10,Blue Ridge Parkway,2016,20
+11,Yosemite National Park,2015,20
+12,Grand Canyon National Park,2018,20
+13,Golden Gate National Recreation Area,2019,20
+14,Grand Canyon National Park,2017,20
+15,Lake Mead National Recreation Area,2015,20
+16,Lake Mead National Recreation Area,2018,19
+17,Yosemite National Park,2018,19
+18,Lake Mead National Recreation Area,2016,19
+19,Lake Mead National Recreation Area,2011,18
+20,Lake Mead National Recreation Area,2009,17
+21,Golden Gate National Recreation Area,2017,17
+22,Sequoia & Kings Canyon National Parks,2017,17
+23,Natchez Trace Parkway,2014,17
+24,Lake Mead National Recreation Area,2012,16
+25,Great Smoky Mountains National Park,2019,16
+26,Lake Mead National Recreation Area,2020,15
+27,Yosemite National Park,2019,15
+28,Denali National Park & Preserve,2012,15
+29,Blue Ridge Parkway,2019,15
+30,Natchez Trace Parkway,2016,15
+31,Great Smoky Mountains National Park,2016,15
+32,Golden Gate National Recreation Area,2016,15
+33,Yosemite National Park,2011,15
+34,Yosemite National Park,2016,15
+35,Great Smoky Mountains National Park,2018,14
+36,Blue Ridge Parkway,2017,14
+37,Blue Ridge Parkway,2015,14
+38,Grand Canyon National Park,2015,14
+39,New River Gorge National River,2018,14
+40,Natchez Trace Parkway,2018,14
+41,Grand Canyon National Park,2016,14
+42,Lake Mead National Recreation Area,2013,14
+43,Natchez Trace Parkway,2015,13
+44,Glen Canyon National Recreation Area,2018,13
+45,Grand Canyon National Park,2019,13
+46,Natchez Trace Parkway,2019,13
+47,Sequoia & Kings Canyon National Parks,2016,12
+48,Lake Mead National Recreation Area,2008,11
+49,Gateway National Recreation Area,2015,11
+50,Grand Canyon National Park,2011,11
+51,Great Smoky Mountains National Park,2020,11
+52,Golden Gate National Recreation Area,2009,11
+53,Yellowstone National Park,2015,11
+54,Yosemite National Park,2014,11
+55,Grand Canyon National Park,2009,11
+56,Great Smoky Mountains National Park,2022,11
+57,Glen Canyon National Recreation Area,2007,10
+58,Yellowstone National Park,2019,10
+59,Yellowstone National Park,2016,10
+60,Cape Hatteras National Seashore,2016,10
+61,Zion National Park,2015,10
+62,Golden Gate National Recreation Area,2022,10
+63,Great Smoky Mountains National Park,2021,10
+64,Baltimore-Washington Parkway,2022,10
+65,National Mall & Memorial Parks,2022,10
+66,Mount Rainier National Park,2012,9
+67,Sequoia & Kings Canyon National Parks,2019,9
+68,Cape Hatteras National Seashore,2017,9
+69,Mount Rainier National Park,2014,9
+70,Rocky Mountain National Park,2018,9
+71,Mount Rainier National Park,2007,9
+72,Great Smoky Mountains National Park,2013,9
+73,Death Valley National Park,2019,9
+74,New River Gorge National River,2017,9
+75,Gulf Islands National Seashore,2021,9
+76,New River Gorge National River,2019,9
+77,Lake Mead National Recreation Area,2007,9
+78,Blue Ridge Parkway,2014,9
+79,George Washington Memorial Parkway,2019,9
+80,Grand Teton National Park,2014,9
+81,Yosemite National Park,2012,9
+82,Golden Gate National Recreation Area,2015,9
+83,Natchez Trace Parkway,2020,9
+84,Baltimore-Washington Parkway,2013,9
+85,Grand Canyon National Park,2010,9
+86,Glen Canyon National Recreation Area,2016,9
+87,Yosemite National Park,2009,9
+88,Baltimore-Washington Parkway,2019,9
+89,Natchez Trace Parkway,2021,9
+90,Glen Canyon National Recreation Area,2012,9
+91,Great Smoky Mountains National Park,2017,8
+92,Grand Teton National Park,2018,8
+93,Golden Gate National Recreation Area,2018,8
+94,Blue Ridge Parkway,2011,8
+95,Point Reyes National Seashore,2015,8
+96,National Mall & Memorial Parks,2015,8
+97,Point Reyes National Seashore,2014,8
+98,Glen Canyon National Recreation Area,2017,8
+99,New River Gorge National River,2011,8
+100,Gateway National Recreation Area,2016,8
+101,Saint Croix National Scenic Riverway,2015,8
+102,Glen Canyon National Recreation Area,2019,8
+103,Gateway National Recreation Area,2019,8
+104,Sequoia & Kings Canyon National Parks,2018,8
+105,Suitland,2017,8
+106,Grand Teton National Park,2013,8
+107,Golden Gate National Recreation Area,2010,8
+108,Buffalo National River,2022,8
+109,Rock Creek Park,2017,8
+110,Yosemite National Park,2022,8
+111,Shenandoah National Park,2018,8
+112,Grand Canyon National Park,2022,8
+113,Glen Canyon National Recreation Area,2014,8
+114,Grand Canyon National Park,2021,8
+115,Baltimore-Washington Parkway,2020,8
+116,Denali National Park & Preserve,2010,8
+117,Golden Gate National Recreation Area,2014,8
+118,Glen Canyon National Recreation Area,2013,8
+119,Virgin Islands National Park,2021,8
+120,Rocky Mountain National Park,2019,8
+121,Denali National Park & Preserve,2011,8
+122,Rocky Mountain National Park,2014,8
+123,Delaware Water Gap National Recreation Area,2008,7
+124,Delaware Water Gap National Recreation Area,2013,7
+125,Great Smoky Mountains National Park,2015,7
+126,Mount Rainier National Park,2018,7
+127,Buffalo National River,2019,7
+128,Glen Canyon National Recreation Area,2021,7
+129,Golden Gate National Recreation Area,2008,7
+130,Presidio of San Francisco,2019,7
+131,Zion National Park,2010,7
+132,Sequoia & Kings Canyon National Parks,2014,7
+133,Yellowstone National Park,2010,7
+134,Glen Canyon National Recreation Area,2020,7
+135,Grand Teton National Park,2012,7
+136,Cape Hatteras National Seashore,2021,7
+137,Yellowstone National Park,2018,7
+138,Rocky Mountain National Park,2010,7
+139,Great Smoky Mountains National Park,2009,7
+140,Olympic National Park,2019,7
+141,Chattahoochee River National Recreation Area,2013,7
+142,Mount Rainier National Park,2010,7
+143,Grand Canyon National Park,2020,7
+144,Upper Delaware Scenic & Recreational River,2021,7
+145,Great Smoky Mountains National Park,2014,7
+146,Great Smoky Mountains National Park,2010,6
+147,Glen Canyon National Recreation Area,2011,6
+148,Grand Canyon National Park,2012,6
+149,Buffalo National River,2015,6
+150,Golden Gate National Recreation Area,2007,6
+151,Haleakala National Park,2007,6
+152,Yosemite National Park,2021,6
+153,Valley Forge National Historical Park,2014,6
+154,Rocky Mountain National Park,2016,6
+155,Sequoia & Kings Canyon National Parks,2013,6
+156,Sequoia & Kings Canyon National Parks,2012,6
+157,Death Valley National Park,2014,6
+158,Gulf Islands National Seashore,2014,6
+159,Death Valley National Park,2018,6
+160,Olympic National Park,2017,6
+161,Cape Hatteras National Seashore,2012,6
+162,Cape Hatteras National Seashore,2007,6
+163,Yosemite National Park,2010,6
+164,Blue Ridge Parkway,2010,6
+165,New River Gorge National River,2012,6
+166,New River Gorge National River,2022,6
+167,New River Gorge National River,2016,6
+168,New River Gorge National River,2015,6
+169,Colonial National Historical Park,2016,6
+170,Lake Mead National Recreation Area,2023,6
+171,George Washington Memorial Parkway,2021,6
+172,George Washington Memorial Parkway,2022,6
+173,Grand Canyon National Park,2013,6
+174,Grand Canyon National Park,2007,6
+175,Glen Canyon National Recreation Area,2015,6
+176,Yellowstone National Park,2007,6
+177,Joshua Tree National Park,2014,6
+178,Chattahoochee River National Recreation Area,2019,6
+179,Baltimore-Washington Parkway,2021,6
+180,Glen Canyon National Recreation Area,2008,6
+181,Glen Canyon National Recreation Area,2009,6
+182,Shenandoah National Park,2021,6
+183,Cape Hatteras National Seashore,2009,6
+184,Yosemite National Park,2007,6
+185,Suitland,2019,6
+186,Suitland,2018,6
+187,Natchez Trace Parkway,2007,6
+188,Gateway National Recreation Area,2014,6
+189,Natchez Trace Parkway,2008,6
+190,Natchez Trace Parkway,2010,6
+191,Golden Gate National Recreation Area,2020,5
+192,Death Valley National Park,2021,5
+193,Golden Gate National Recreation Area,2013,5
+194,Cape Hatteras National Seashore,2014,5
+195,Suitland,2021,5
+196,Indiana Dunes National Park,2011,5
+197,Chattahoochee River National Recreation Area,2018,5
+198,Chattahoochee River National Recreation Area,2017,5
+199,Cape Hatteras National Seashore,2018,5
+200,Zion National Park,2017,5
+201,Death Valley National Park,2017,5
+202,Cuyahoga Valley National Park,2016,5
+203,Zion National Park,2021,5
+204,Chesapeake & Ohio Canal National Historical Park,2014,5
+205,Chattahoochee River National Recreation Area,2014,5
+206,Hawaii Volcanoes National Park,2017,5
+207,Death Valley National Park,2022,5
+208,Point Reyes National Seashore,2010,5
+209,Natchez Trace Parkway,2022,5
+210,Suitland,2022,5
+211,Acadia National Park,2019,5
+212,Channel Islands National Park,2012,5
+213,Capitol Reef National Park,2014,5
+214,Yellowstone National Park,2014,5
+215,Natchez Trace Parkway,2009,5
+216,Glen Canyon National Recreation Area,2022,5
+217,Blue Ridge Parkway,2013,5
+218,Great Falls,2013,5
+219,Gateway National Recreation Area,2008,5
+220,Blue Ridge Parkway,2007,5
+221,National Mall & Memorial Parks,2016,5
+222,Sequoia & Kings Canyon National Parks,2015,5
+223,Rock Creek Park,2014,5
+224,Colorado National Monument,2022,5
+225,Padre Island National Seashore,2017,5
+226,Mount Rainier National Park,2020,5
+227,Big Bend National Park,2019,5
+228,Mojave National Preserve,2019,5
+229,Redwood National and State Parks,2019,5
+230,Mount Rainier National Park,2011,5
+231,Baltimore-Washington Parkway,2015,5
+232,Glacier National Park,2010,5
+233,Glacier National Park,2013,5
+234,Baltimore-Washington Parkway,2018,5
+235,Big Cypress National Preserve,2018,5
+236,Olympic National Park,2016,5
+237,Great Falls Park,2017,5
+238,Mount Rainier National Park,2019,5
+239,Rocky Mountain National Park,2013,5
+240,Upper Delaware Scenic & Recreational River,2011,5
+241,Olympic National Park,2015,5
+242,Chesapeake & Ohio Canal National Historical Park,2019,5
+243,Yosemite National Park,2023,5
+244,Delaware Water Gap National Recreation Area,2011,5
+245,Delaware Water Gap National Recreation Area,2015,5
+246,Delaware Water Gap National Recreation Area,2016,5
+247,Delaware Water Gap National Recreation Area,2020,5
+248,Denali National Park & Preserve,2007,5
+249,Olympic National Park,2010,5
+250,Upper Delaware Scenic & Recreational River,2022,5
+251,Denali National Park & Preserve,2016,5
+252,Denali National Park & Preserve,2018,5
+253,Point Reyes National Seashore,2017,5
+254,Golden Gate National Recreation Area,2011,5
+255,Yosemite National Park,2013,5
+256,Everglades National Park,2018,5
+257,Rocky Mountain National Park,2017,5
+258,Virgin Islands National Park,2018,5
+259,Big Bend National Park,2023,5
+260,Sequoia & Kings Canyon National Parks,2020,4
+261,Colorado National Monument,2013,4
+262,Ozark National Scenic Riverways,2019,4
+263,Padre Island National Seashore,2016,4
+264,Great Falls,2009,4
+265,Indiana Dunes National Park,2012,4
+266,Grand Teton National Park,2016,4
+267,Golden Gate National Recreation Area,2023,4
+268,Redwood National and State Parks,2015,4
+269,Glacier National Park,2019,4
+270,Glacier National Park,2014,4
+271,Glacier Bay National Park & Preserve,2018,4
+272,Grand Teton National Park,2008,4
+273,George Washington Memorial Parkway,2020,4
+274,George Washington Memorial Parkway,2018,4
+275,George Washington Memorial Parkway,2016,4
+276,George Washington Memorial Parkway,2015,4
+277,Grand Teton National Park,2015,4
+278,Rock Creek Park,2016,4
+279,Santa Monica Mountains National Recreation Area,2019,4
+280,Gateway National Recreation Area,2020,4
+281,Joshua Tree National Park,2018,4
+282,Saguaro National Park,2012,4
+283,Presidio of San Francisco,2015,4
+284,Presidio of San Francisco,2014,4
+285,Delaware Water Gap National Recreation Area,2007,4
+286,Death Valley National Park,2023,4
+287,Death Valley National Park,2015,4
+288,Death Valley National Park,2012,4
+289,Cuyahoga Valley National Park,2022,4
+290,Curecanti National Recreation Area,2018,4
+291,Sequoia & Kings Canyon National Parks,2021,4
+292,Zion National Park,2022,4
+293,Lake Roosevelt National Recreation Area,2015,4
+294,Little River Canyon National Preserve,2020,4
+295,Little River Canyon National Preserve,2017,4
+296,Cape Cod National Seashore,2011,4
+297,Cape Hatteras National Seashore,2023,4
+298,Natchez Trace Parkway,2023,4
+299,Zion National Park,2019,4
+300,Chattahoochee River National Recreation Area,2021,4
+301,Wrangell - St Elias National Park & Reserve,2018,4
+302,Little River Canyon National Preserve,2016,4
+303,Blue Ridge Parkway,2012,4
+304,National Mall & Memorial Parks,2017,4
+305,Zion National Park,2014,4
+306,Chattahoochee River National Recreation Area,2015,4
+307,Cape Cod National Seashore,2018,4
+308,Virgin Islands National Park,2022,4
+309,Buffalo National River,2014,4
+310,Baltimore-Washington Parkway,2016,4
+311,Apostle Islands National Lakeshore,2018,4
+312,Appalachian National Scenic Trail,2018,4
+313,Appalachian National Scenic Trail,2019,4
+314,Lake Meredith National Recreation Area,2017,4
+315,Cape Hatteras National Seashore,2019,4
+316,Big Bend National Park,2016,4
+317,Cape Hatteras National Seashore,2020,4
+318,North Cascades National Park,2017,4
+319,Suitland,2016,4
+320,Buffalo National River,2010,4
+321,Olympic National Park,2018,4
+322,National Mall & Memorial Parks,2018,4
+323,Chattahoochee River National Recreation Area,2022,4
+324,New River Gorge National River,2023,4
+325,National Mall & Memorial Parks,2014,4
+326,Canyonlands National Park,2008,4
+327,New River Gorge National River,2013,4
+328,Katmai National Park & Preserve,2007,4
+329,Canaveral National Seashore,2021,4
+330,Canyonlands National Park,2015,4
+331,Shenandoah National Park,2016,4
+332,Acadia National Park,2016,4
+333,Bighorn Canyon National Recreation Area,2018,4
+334,Biscayne National Park,2009,4
+335,National Mall & Memorial Parks,2019,4
+336,Lake Roosevelt National Recreation Area,2018,4
+337,Natchez Trace Parkway,2013,4
+338,Mammoth Cave National Park,2015,4
+339,Lake Roosevelt National Recreation Area,2019,4
+340,Buffalo National River,2021,4
+341,North Cascades National Park,2008,4
+342,Mount Rainier National Park,2008,4
+343,National Mall & Memorial Parks,2020,4
+344,Wilson's Creek National Battlefield,2017,4
+345,Acadia National Park,2021,4
+346,Saguaro National Park,2019,3
+347,Yellowstone National Park,2013,3
+348,Baltimore-Washington Parkway,2017,3
+349,Point Reyes National Seashore,2019,3
+350,Lake Roosevelt National Recreation Area,2020,3
+351,Guadalupe Mountains National Park,2015,3
+352,Great Smoky Mountains National Park,2012,3
+353,Great Smoky Mountains National Park,2011,3
+354,North Cascades National Park,2018,3
+355,Lake Roosevelt National Recreation Area,2017,3
+356,Shenandoah National Park,2011,3
+357,Big Bend National Park,2013,3
+358,North Cascades National Park,2022,3
+359,Buffalo National River,2016,3
+360,Saguaro National Park,2018,3
+361,Saint Croix National Scenic Riverway,2014,3
+362,Glen Canyon National Recreation Area,2010,3
+363,Chesapeake & Ohio Canal National Historical Park,2021,3
+364,Buffalo National River,2008,3
+365,Great Smoky Mountains National Park,2008,3
+366,Grand Teton National Park,2021,3
+367,Grand Teton National Park,2019,3
+368,Rock Creek Park,2018,3
+369,Grand Teton National Park,2017,3
+370,Gauley River National Recreation Area,2010,3
+371,Mojave National Preserve,2022,3
+372,Mesa Verde National Park,2018,3
+373,Grand Teton National Park,2011,3
+374,Grand Canyon National Park,2023,3
+375,Whiskeytown National Recreation Area,2015,3
+376,Big Thicket National Preserve,2019,3
+377,George Washington Memorial Parkway,2017,3
+378,New River Gorge National River,2010,3
+379,New River Gorge National River,2009,3
+380,New River Gorge National River,2008,3
+381,Gateway National Recreation Area,2017,3
+382,Glacier National Park,2011,3
+383,Wrangell - St Elias National Park & Reserve,2015,3
+384,Fort Dupont Park,2021,3
+385,Rocky Mountain National Park,2023,3
+386,Rocky Mountain National Park,2020,3
+387,Big Bend National Park,2017,3
+388,Virgin Islands National Park,2015,3
+389,Big Bend National Park,2022,3
+390,Virgin Islands National Park,2017,3
+391,Glacier National Park,2017,3
+392,Gateway National Recreation Area,2010,3
+393,Rocky Mountain National Park,2009,3
+394,Great Falls Park,2019,3
+395,Glacier National Park,2016,3
+396,Blue Ridge Parkway,2021,3
+397,Glacier National Park,2015,3
+398,Blue Ridge Parkway,2008,3
+399,Virgin Islands National Park,2019,3
+400,Yellowstone National Park,2017,3
+401,Denali National Park & Preserve,2022,3
+402,Anacostia Park,2015,3
+403,Ozark National Scenic Riverways,2022,3
+404,Chesapeake & Ohio Canal National Historical Park,2016,3
+405,Indiana Dunes National Park,2022,3
+406,Golden Gate National Recreation Area,2021,3
+407,Sequoia & Kings Canyon National Parks,2010,3
+408,Crater Lake National Park,2019,3
+409,Indiana Dunes National Park,2018,3
+410,Chesapeake & Ohio Canal National Historical Park,2009,3
+411,Cumberland Gap National Historical Park,2018,3
+412,Chattahoochee River National Recreation Area,2020,3
+413,Indiana Dunes National Park,2008,3
+414,Zion National Park,2018,3
+415,Chattahoochee River National Recreation Area,2016,3
+416,Santa Monica Mountains National Recreation Area,2017,3
+417,Amistad National Recreation Area,2014,3
+418,Zion National Park,2013,3
+419,Curecanti National Recreation Area,2020,3
+420,Chesapeake & Ohio Canal National Historical Park,2020,3
+421,Chesapeake & Ohio Canal National Historical Park,2022,3
+422,Olympic National Park,2021,3
+423,Grand Canyon National Park,2008,3
+424,Joshua Tree National Park,2019,3
+425,Sequoia & Kings Canyon National Parks,2022,3
+426,Joshua Tree National Park,2021,3
+427,Ozark National Scenic Riverways,2010,3
+428,Acadia National Park,2012,3
+429,Joshua Tree National Park,2017,3
+430,Acadia National Park,2013,3
+431,National Mall & Memorial Parks,2013,3
+432,Jean Lafitte National Historical Park & Preserve,2015,3
+433,Colorado National Monument,2014,3
+434,Redwood National and State Parks,2013,3
+435,Colorado National Monument,2017,3
+436,Joshua Tree National Park,2011,3
+437,Redwood National and State Parks,2014,3
+438,Colorado National Monument,2021,3
+439,Shenandoah National Park,2022,3
+440,Denali National Park & Preserve,2019,3
+441,Chattahoochee River National Recreation Area,2011,3
+442,Pictured Rocks National Lakeshore,2021,3
+443,Death Valley National Park,2020,3
+444,Lake Meredith National Recreation Area,2018,3
+445,Natchez Trace Parkway,2011,3
+446,Cape Cod National Seashore,2017,3
+447,Gulf Islands National Seashore,2020,3
+448,Gulf Islands National Seashore,2019,3
+449,Upper Delaware Scenic & Recreational River,2013,3
+450,Delaware Water Gap National Recreation Area,2019,3
+451,Gulf Islands National Seashore,2017,3
+452,Gulf Islands National Seashore,2016,3
+453,Upper Delaware Scenic & Recreational River,2015,3
+454,Denali National Park & Preserve,2009,3
+455,Lake Roosevelt National Recreation Area,2013,3
+456,Denali National Park & Preserve,2014,3
+457,Denali National Park & Preserve,2015,3
+458,Canyonlands National Park,2013,3
+459,Cape Hatteras National Seashore,2011,3
+460,Upper Delaware Scenic & Recreational River,2008,3
+461,Suitland,2008,3
+462,Cuyahoga Valley National Park,2023,3
+463,Zion National Park,2008,3
+464,Anacostia Park,2021,3
+465,Cuyahoga Valley National Park,2015,3
+466,Sleeping Bear DunesNational Lakeshore,2016,3
+467,Cuyahoga Valley National Park,2017,3
+468,Death Valley National Park,2016,3
+469,Suitland,2015,3
+470,Grand Teton National Park,2007,3
+471,Arches National Park,2016,3
+472,Arches National Park,2019,3
+473,Suitland,2023,3
+474,Assateague Island National Seashore,2014,3
+475,Mount Rushmore National Memorial,2018,2
+476,Mount Rainier National Park,2021,2
+477,Mount Rainier National Park,2015,2
+478,New River Gorge National River,2007,2
+479,National Mall & Memorial Parks,2023,2
+480,Mount Rainier National Park,2023,2
+481,Mount Rainier National Park,2022,2
+482,Mount Rainier National Park,2017,2
+483,Mount Rainier National Park,2016,2
+484,Mojave National Preserve,2020,2
+485,Mount Rainier National Park,2013,2
+486,Ozark National Scenic Riverways,2014,2
+487,Grand Teton National Park,2009,2
+488,Hot Springs National Park,2016,2
+489,Olympic National Park,2013,2
+490,Olympic National Park,2014,2
+491,Lake Meredith National Recreation Area,2015,2
+492,Lake Meredith National Recreation Area,2012,2
+493,Point Reyes National Seashore,2013,2
+494,Point Reyes National Seashore,2012,2
+495,Point Reyes National Seashore,2007,2
+496,Haleakala National Park,2018,2
+497,Pinnacles National Park,2021,2
+498,Harpers Ferry National Historical Park,2017,2
+499,Hawaii Volcanoes National Park,2009,2
+500,Hawaii Volcanoes National Park,2015,2
+501,Hawaii Volcanoes National Park,2022,2
+502,Petroglyph National Monument,2018,2
+503,Mojave National Preserve,2014,2
+504,Pea Ridge National Military Park,2013,2
+505,Padre Island National Seashore,2019,2
+506,Padre Island National Seashore,2018,2
+507,Indiana Dunes National Park,2020,2
+508,Olympic National Park,2022,2
+509,Lake Clark National Park & Preserve,2014,2
+510,Ozark National Scenic Riverways,2018,2
+511,Joshua Tree National Park,2013,2
+512,Olympic National Park,2023,2
+513,Kennesaw Mountain National Battlefield Park,2019,2
+514,Kennesaw Mountain National Battlefield Park,2018,2
+515,Organ Pipe Cactus National Monument,2023,2
+516,Katmai National Park & Preserve,2018,2
+517,Gulf Islands National Seashore,2018,2
+518,Lake Meredith National Recreation Area,2023,2
+519,Lake Roosevelt National Recreation Area,2007,2
+520,Gulf Islands National Seashore,2015,2
+521,Grand Teton National Park,2010,2
+522,Niobrara National Scenic River,2017,2
+523,North Cascades National Park,2007,2
+524,Mammoth Cave National Park,2019,2
+525,Mammoth Cave National Park,2017,2
+526,Lowell National Historical Park,2021,2
+527,Little River Canyon National Preserve,2019,2
+528,Redwood National and State Parks,2008,2
+529,Great Falls,2008,2
+530,Great Falls,2010,2
+531,Great Falls Park,2015,2
+532,Great Falls Park,2018,2
+533,Prince William Forest Park,2015,2
+534,Little River Canyon National Preserve,2015,2
+535,North Cascades National Park,2014,2
+536,Little River Canyon National Preserve,2012,2
+537,Little River Canyon National Preserve,2008,2
+538,Presidio of San Francisco,2018,2
+539,Great Smoky Mountains National Park,2007,2
+540,Lassen Volcanic National Park,2008,2
+541,Lake Roosevelt National Recreation Area,2023,2
+542,Great Smoky Mountains National Park,2023,2
+543,Lake Roosevelt National Recreation Area,2016,2
+544,Gulf Islands National Seashore,2009,2
+545,Gulf Islands National Seashore,2011,2
+546,Lake Roosevelt National Recreation Area,2011,2
+547,Olympic National Park,2007,2
+548,North Cascades National Park,2019,2
+549,Everglades National Park,2017,2
+550,Buffalo National River,2018,2
+551,Death Valley National Park,2009,2
+552,Cape Hatteras National Seashore,2010,2
+553,Santa Monica Mountains National Recreation Area,2016,2
+554,Cape Hatteras National Seashore,2013,2
+555,Big Thicket National Preserve,2008,2
+556,White Sands National Park,2015,2
+557,Big Thicket National Preserve,2012,2
+558,Upper Delaware Scenic & Recreational River,2007,2
+559,Whiskeytown National Recreation Area,2022,2
+560,Big Thicket National Preserve,2016,2
+561,Whiskeytown National Recreation Area,2021,2
+562,Cape Hatteras National Seashore,2022,2
+563,Whiskeytown National Recreation Area,2020,2
+564,Sequoia & Kings Canyon National Parks,2007,2
+565,Cumberland Gap National Historical Park,2014,2
+566,Sequoia & Kings Canyon National Parks,2008,2
+567,Sequoia & Kings Canyon National Parks,2009,2
+568,Craters Of The Moon National Monument & Preserve,2013,2
+569,Curecanti National Recreation Area,2016,2
+570,Big South Fork National River and Recreation Area,2021,2
+571,Upper Delaware Scenic & Recreational River,2009,2
+572,Big South Fork National River and Recreation Area,2014,2
+573,Cuyahoga Valley National Park,2019,2
+574,Canyonlands National Park,2019,2
+575,Virgin Islands National Park,2016,2
+576,Big South Fork National River and Recreation Area,2010,2
+577,Cape Cod National Seashore,2010,2
+578,Cape Cod National Seashore,2014,2
+579,Cuyahoga Valley National Park,2011,2
+580,Cape Cod National Seashore,2019,2
+581,Virgin Islands National Park,2011,2
+582,Cuyahoga Valley National Park,2010,2
+583,Cape Cod National Seashore,2020,2
+584,Santa Monica Mountains National Recreation Area,2014,2
+585,Curecanti National Recreation Area,2022,2
+586,Curecanti National Recreation Area,2021,2
+587,Big South Fork National River and Recreation Area,2016,2
+588,Curecanti National Recreation Area,2019,2
+589,Whiskeytown National Recreation Area,2019,2
+590,Boston National Historical Park,2018,2
+591,Bighorn Canyon National Recreation Area,2011,2
+592,Chickasaw National Recreation Area,2009,2
+593,Shenandoah National Park,2013,2
+594,Shenandoah National Park,2014,2
+595,Biscayne National Park,2014,2
+596,Shenandoah National Park,2015,2
+597,Virgin Islands National Park,2023,2
+598,Channel Islands National Park,2014,2
+599,Shenandoah National Park,2017,2
+600,Biscayne National Park,2022,2
+601,Catoctin Mountain Park,2016,2
+602,Shenandoah National Park,2020,2
+603,Sleeping Bear DunesNational Lakeshore,2014,2
+604,Chickamauga & Chattanooga National Military Park,2015,2
+605,Sleeping Bear Dunes National Lakeshore,2018,2
+606,Chesapeake & Ohio Canal National Historical Park,2018,2
+607,Chesapeake & Ohio Canal National Historical Park,2017,2
+608,Chesapeake & Ohio Canal National Historical Park,2015,2
+609,Clara Barton National Historic Site,2016,2
+610,Carlsbad Caverns National Park,2017,2
+611,Crater Lake National Park,2016,2
+612,Blue Ridge Parkway,2009,2
+613,Crater Lake National Park,2013,2
+614,Biscayne National Park,2007,2
+615,Colorado National Monument,2023,2
+616,Virgin Islands National Park,2020,2
+617,Colorado National Monument,2020,2
+618,Colorado National Monument,2019,2
+619,Colorado National Monument,2018,2
+620,Colorado National Monument,2015,2
+621,Clara Barton National Historic Site,2018,2
+622,Colonial National Historical Park,2020,2
+623,Suitland,2020,2
+624,Biscayne National Park,2011,2
+625,Colonial National Historical Park,2018,2
+626,Colonial National Historical Park,2011,2
+627,Shenandoah National Park,2008,2
+628,Shenandoah National Park,2012,2
+629,Death Valley National Park,2007,2
+630,Black Canyon Of The Gunnison National Park,2013,2
+631,Canyonlands National Park,2017,2
+632,Fredericksburg & Spotsylvania National Military Park,2022,2
+633,Rock Creek Park,2019,2
+634,Amistad National Recreation Area,2015,2
+635,Rock Creek Park,2020,2
+636,Rock Creek Park,2021,2
+637,Gateway National Recreation Area,2007,2
+638,Rock Creek Park,2022,2
+639,Rock Creek Park,2023,2
+640,Fredericksburg & Spotsylvania National Military Park,2019,2
+641,Gateway National Recreation Area,2022,2
+642,Rocky Mountain National Park,2008,2
+643,Zion National Park,2012,2
+644,Anacostia Park,2017,2
+645,Rocky Mountain National Park,2012,2
+646,Zion National Park,2009,2
+647,Rocky Mountain National Park,2015,2
+648,Death Valley National Park,2011,2
+649,Gateway National Recreation Area,2021,2
+650,Gauley River National Recreation Area,2007,2
+651,Fire Island National Seashore,2012,2
+652,Redwood National and State Parks,2018,2
+653,Glen Canyon National Recreation Area,2023,2
+654,Glacier National Park,2022,2
+655,Glacier National Park,2020,2
+656,Glacier National Park,2018,2
+657,Glacier National Park,2012,2
+658,Glacier National Park,2009,2
+659,Glacier National Park,2008,2
+660,Glacier Bay National Park & Preserve,2016,2
+661,Amistad National Recreation Area,2008,2
+662,Gettysburg National Military Park,2019,2
+663,Redwood National and State Parks,2021,2
+664,George Washington Memorial Parkway,2014,2
+665,Acadia National Park,2014,2
+666,Acadia National Park,2017,2
+667,Acadia National Park,2022,2
+668,George Washington Birthplace,2013,2
+669,Arches National Park,2018,2
+670,Zion National Park,2007,2
+671,Saguaro National Park,2008,2
+672,Denali National Park & Preserve,2008,2
+673,Baltimore-Washington Parkway,2007,2
+674,Arches National Park,2023,2
+675,Baltimore-Washington Parkway,2009,2
+676,Baltimore-Washington Parkway,2014,2
+677,Bandelier National Monument,2016,2
+678,Yellowstone National Park,2012,2
+679,Denali National Park & Preserve,2021,2
+680,San Antonio Missions National Historical Park,2015,2
+681,Saint Croix National Scenic Riverway,2018,2
+682,Delaware Water Gap National Recreation Area,2022,2
+683,Big Bend National Park,2018,2
+684,Delaware Water Gap National Recreation Area,2014,2
+685,Delaware Water Gap National Recreation Area,2012,2
+686,Delaware Water Gap National Recreation Area,2010,2
+687,Big Bend National Park,2020,2
+688,Yellowstone National Park,2011,2
+689,Buffalo National River,2011,2
+690,Baltimore-Washington Parkway,2008,2
+691,Dinosaur National Monument,2016,2
+692,Saint Croix Island International Historic Site,2013,2
+693,Yosemite National Park,2008,2
+694,Assateague Island National Seashore,2021,2
+695,Buffalo National River,2013,2
+696,Dinosaur National Monument,2017,2
+697,Everglades National Park,2016,2
+698,Saguaro National Park,2010,2
+699,Saint Croix Island International Historic Site,2012,2
+700,Canaveral National Seashore,2019,2
+701,Badlands National Park,2015,2
+702,Dry Tortugas National Park,2015,2
+703,Assateague Island National Seashore,2016,2
+704,Saint Croix National Scenic Riverway,2017,2
+705,Assateague Island National Seashore,2018,2
+706,Virgin Islands National Park,2014,1
+707,Voyageurs National Park,2013,1
+708,North Cascades National Park,2012,1
+709,Virgin Islands National Park,2012,1
+710,Voyageurs National Park,2009,1
+711,Obed Wild & Scenic River,2017,1
+712,North Cascades National Park,2013,1
+713,Virgin Islands National Park,2013,1
+714,Obed Wild & Scenic River,2015,1
+715,North Cascades National Park,2015,1
+716,Redwood National and State Parks,2012,1
+717,North Cascades National Park,2011,1
+718,Yellowstone National Park,2009,1
+719,Wind Cave National Park,2012,1
+720,Wind Cave National Park,2014,1
+721,Wind Cave National Park,2016,1
+722,Wrangell - St Elias National Park & Reserve,2014,1
+723,Wrangell - St Elias National Park & Reserve,2020,1
+724,Wupatki National Monument,2022,1
+725,Yellowstone National Park,2021,1
+726,National Mall & Memorial Parks,2021,1
+727,Yellowstone National Park,2022,1
+728,Yellowstone National Park,2023,1
+729,Yorktown Battlefield Part of Colonial National Historical Park,2023,1
+730,Zion National Park,2016,1
+731,Zion National Park,2020,1
+732,National Mall & Memorial Parks,2008,1
+733,Wind Cave National Park,2007,1
+734,White Sands National Park,2021,1
+735,North Cascades National Park,2010,1
+736,Niobrara National Scenic River,2012,1
+737,Voyageurs National Park,2017,1
+738,Voyageurs National Park,2018,1
+739,North Cascades National Park,2009,1
+740,Walnut Canyon National Monument,2017,1
+741,Whiskeytown National Recreation Area,2007,1
+742,Niobrara National Scenic River,2015,1
+743,Whiskeytown National Recreation Area,2012,1
+744,White Sands National Park,2019,1
+745,Whiskeytown National Recreation Area,2014,1
+746,New River Gorge National River,2020,1
+747,Whiskeytown National Recreation Area,2018,1
+748,New River Gorge National River,2014,1
+749,White Sands National Park,2011,1
+750,White Sands National Park,2018,1
+751,Wilson's Creek National Battlefield,2019,1
+752,Organ Pipe Cactus National Monument,2020,1
+753,Obed Wild & Scenic River,2021,1
+754,Pictured Rocks National Lakeshore,2013,1
+755,Point Reyes National Seashore,2021,1
+756,Saint Croix National Scenic Riverway,2019,1
+757,Saint Croix National Scenic Riverway,2021,1
+758,Point Reyes National Seashore,2018,1
+759,Saint Croix National Scenic Riverway,2022,1
+760,San Antonio Missions National Historical Park,2017,1
+761,San Antonio Missions National Historical Park,2019,1
+762,San Francisco Maritime National Historical Park,2014,1
+763,San Francisco Maritime National Historical Park,2015,1
+764,San Francisco Maritime National Historical Park,2019,1
+765,San Juan Island National Historical Park,2018,1
+766,Piscataway Park,2022,1
+767,Piscataway Park,2014,1
+768,Pinnacles National Park,2022,1
+769,Santa Monica Mountains National Recreation Area,2010,1
+770,Pinnacles National Park,2019,1
+771,Pinnacles National Park,2014,1
+772,Pinnacles National Park,2008,1
+773,Pictured Rocks National Lakeshore,2023,1
+774,Pictured Rocks National Lakeshore,2019,1
+775,Pictured Rocks National Lakeshore,2018,1
+776,Point Reyes National Seashore,2022,1
+777,President's Park (White House),2019,1
+778,Saint Croix National Scenic Riverway,2011,1
+779,Prince William Forest Park,2021,1
+780,Redwood National and State Parks,2020,1
+781,Redwood National and State Parks,2022,1
+782,Richmond National Battlefield Park,2009,1
+783,Richmond National Battlefield Park,2022,1
+784,Richmond National Battlefield Park,2023,1
+785,Rock Creek Park,2015,1
+786,Redwood National and State Parks,2010,1
+787,Rocky Mountain National Park,2007,1
+788,Redwood National and State Parks,2007,1
+789,Prince William Forest,2011,1
+790,Saint Croix National Scenic Riverway,2009,1
+791,Rocky Mountain National Park,2022,1
+792,Presidio of San Francisco,2017,1
+793,Saguaro National Park,2009,1
+794,National Capital Parks-East,2019,1
+795,Saguaro National Park,2015,1
+796,Saguaro National Park,2016,1
+797,Saguaro National Park,2017,1
+798,Saguaro National Park,2021,1
+799,Saint Croix Island International Historic Site,2015,1
+800,Pictured Rocks National Lakeshore,2016,1
+801,Petroglyph National Monument,2020,1
+802,Virgin Islands National Park,2010,1
+803,Petersburg National Battlefield,2022,1
+804,Shenandoah National Park,2019,1
+805,Shenandoah National Park,2023,1
+806,Sleeping Bear Dunes National Lakeshore,2009,1
+807,Sleeping Bear Dunes National Lakeshore,2011,1
+808,Sleeping Bear Dunes National Lakeshore,2012,1
+809,Sleeping Bear Dunes National Lakeshore,2013,1
+810,Sleeping Bear Dunes National Lakeshore,2022,1
+811,Sleeping Bear DunesNational Lakeshore,2015,1
+812,Statue Of Liberty National Monument,2018,1
+813,Suitland,2014,1
+814,Theodore Roosevelt National Park,2012,1
+815,Theodore Roosevelt National Park,2016,1
+816,Thomas Jefferson Memorial,2021,1
+817,Upper Delaware Scenic & Recreational River,2014,1
+818,Upper Delaware Scenic & Recreational River,2016,1
+819,Upper Delaware Scenic & Recreational River,2017,1
+820,Obed Wild & Scenic River,2022,1
+821,Valley Forge National Historical Park,2010,1
+822,Valley Forge National Historical Park,2015,1
+823,Valley Forge National Historical Park,2016,1
+824,Virgin Islands National Park,2009,1
+825,Organ Pipe Cactus National Monument,2013,1
+826,Organ Pipe Cactus National Monument,2018,1
+827,Organ Pipe Cactus National Monument,2019,1
+828,Padre Island National Seashore,2015,1
+829,Petersburg National Battlefield,2019,1
+830,Petersburg National Battlefield,2018,1
+831,Pecos National Historical Park,2019,1
+832,Saratoga National Historical Park,2011,1
+833,Saratoga National Historical Park,2014,1
+834,Paterson Great Falls National Historical Park,2015,1
+835,Scotts Bluff National Monument,2012,1
+836,Scotts Bluff National Monument,2016,1
+837,Padre Island National Seashore,2022,1
+838,Sequoia & Kings Canyon National Parks,2011,1
+839,Redwood National and State Parks,2016,1
+840,Padre Island National Seashore,2010,1
+841,Ozark National Scenic Riverways,2021,1
+842,Ozark National Scenic Riverways,2020,1
+843,Ozark National Scenic Riverways,2017,1
+844,Ozark National Scenic Riverways,2016,1
+845,Ozark National Scenic Riverways,2015,1
+846,Ozark National Scenic Riverways,2012,1
+847,Ozark National Scenic Riverways,2011,1
+848,Oxon Cove Park & Oxon Hill Farm,2010,1
+849,National Capital Parks-East,2020,1
+850,Acadia National Park,2007,1
+851,National Capital Parks-East,2018,1
+852,Capitol Reef National Park,2017,1
+853,Castillo De San Marcos National Monument,2016,1
+854,Catoctin Mountain Park,2014,1
+855,Catoctin Mountain Park,2017,1
+856,Channel Islands National Park,2007,1
+857,Channel Islands National Park,2009,1
+858,Channel Islands National Park,2010,1
+859,Channel Islands National Park,2013,1
+860,Channel Islands National Park,2016,1
+861,Channel Islands National Park,2020,1
+862,Channel Islands National Park,2023,1
+863,Chattahoochee River National Recreation Area,2008,1
+864,Chattahoochee River National Recreation Area,2009,1
+865,Chesapeake & Ohio Canal National Historical Park,2011,1
+866,Chickamauga & Chattanooga National Military Park,2008,1
+867,Chickamauga & Chattanooga National Military Park,2010,1
+868,Chickamauga & Chattanooga National Military Park,2017,1
+869,Chickamauga & Chattanooga National Military Park,2019,1
+870,Chickamauga & Chattanooga National Military Park,2023,1
+871,Chickasaw National Recreation Area,2007,1
+872,Castillo De San Marcos National Monument,2010,1
+873,Capitol Reef National Park,2015,1
+874,Chickasaw National Recreation Area,2013,1
+875,Cape Lookout National Seashore,2023,1
+876,Canaveral National Seashore,2015,1
+877,Canaveral National Seashore,2018,1
+878,Canyon De Chelly National Monument,2012,1
+879,Canyonlands National Park,2014,1
+880,Canyonlands National Park,2016,1
+881,Canyonlands National Park,2018,1
+882,Canyonlands National Park,2022,1
+883,Canyonlands National Park,2023,1
+884,Cape Cod National Seashore,2007,1
+885,Cape Cod National Seashore,2013,1
+886,Cape Cod National Seashore,2021,1
+887,Cape Cod National Seashore,2022,1
+888,Cape Hatteras National Seashore,2008,1
+889,Cape Hatteras National Seashore,2015,1
+890,Cape Lookout National Seashore,2007,1
+891,Cape Lookout National Seashore,2012,1
+892,Cape Lookout National Seashore,2015,1
+893,Cape Lookout National Seashore,2018,1
+894,Cape Lookout National Seashore,2020,1
+895,Chickasaw National Recreation Area,2008,1
+896,Chickasaw National Recreation Area,2014,1
+897,Canaveral National Seashore,2011,1
+898,Cumberland Gap National Historical Park,2015,1
+899,Cumberland Island National Seashore,2015,1
+900,Curecanti National Recreation Area,2007,1
+901,Curecanti National Recreation Area,2008,1
+902,Curecanti National Recreation Area,2011,1
+903,Curecanti National Recreation Area,2014,1
+904,Curecanti National Recreation Area,2015,1
+905,Cuyahoga Valley National Park,2008,1
+906,Cuyahoga Valley National Park,2014,1
+907,Cuyahoga Valley National Park,2018,1
+908,Cuyahoga Valley National Park,2021,1
+909,Death Valley National Park,2010,1
+910,Death Valley National Park,2013,1
+911,Delaware Water Gap National Recreation Area,2009,1
+912,Delaware Water Gap National Recreation Area,2021,1
+913,Delaware Water Gap National Recreation Area,2023,1
+914,Devils Tower National Monument,2017,1
+915,Dinosaur National Monument,2008,1
+916,Dinosaur National Monument,2009,1
+917,Dinosaur National Monument,2015,1
+918,Cumberland Gap National Historical Park,2017,1
+919,Craters Of The Moon National Monument & Preserve,2022,1
+920,Chickasaw National Recreation Area,2015,1
+921,Craters Of The Moon National Monument & Preserve,2015,1
+922,Chickasaw National Recreation Area,2018,1
+923,Chickasaw National Recreation Area,2019,1
+924,Christiansted National Historic Site,2021,1
+925,Clara Barton National Historic Site,2021,1
+926,Clara Barton National Historic Site,2022,1
+927,Colonial National Historical Park,2007,1
+928,Colonial National Historical Park,2009,1
+929,Colonial National Historical Park,2012,1
+930,Colonial National Historical Park,2017,1
+931,Colonial National Historical Park,2021,1
+932,Colonial National Historical Park,2022,1
+933,Colorado National Monument,2007,1
+934,Congaree National Park,2015,1
+935,Coronado National Memorial,2015,1
+936,Coronado National Memorial,2016,1
+937,Coronado National Memorial,2020,1
+938,Crater Lake National Park,2015,1
+939,Crater Lake National Park,2017,1
+940,Crater Lake National Park,2018,1
+941,Canaveral National Seashore,2014,1
+942,Cabrillo National Monument,2017,1
+943,Dinosaur National Monument,2019,1
+944,Appalachian National Scenic Trail,2015,1
+945,Arches National Park,2017,1
+946,Arches National Park,2020,1
+947,Arches National Park,2021,1
+948,Assateague Island National Seashore,2011,1
+949,Assateague Island National Seashore,2017,1
+950,Assateague Island National Seashore,2019,1
+951,Assateague Island National Seashore,2022,1
+952,Badlands National Park,2007,1
+953,Badlands National Park,2014,1
+954,Badlands National Park,2017,1
+955,Badlands National Park,2019,1
+956,Badlands National Park,2020,1
+957,Badlands National Park,2022,1
+958,Baltimore-Washington Parkway,2011,1
+959,Baltimore-Washington Parkway,2012,1
+960,Bandelier National Monument,2022,1
+961,Big Bend National Park,2009,1
+962,Big Bend National Park,2011,1
+963,Big Bend National Park,2014,1
+964,Appalachian National Scenic Trail,2017,1
+965,Appalachian National Scenic Trail,2010,1
+966,Big Cypress National Preserve,2014,1
+967,Apostle Islands National Lakeshore,2019,1
+968,Acadia National Park,2011,1
+969,Acadia National Park,2023,1
+970,Allegheny Portage Railroad National Historic Site,2015,1
+971,American Memorial Park,2022,1
+972,Amistad National Recreation Area,2010,1
+973,Amistad National Recreation Area,2016,1
+974,Amistad National Recreation Area,2018,1
+975,Amistad National Recreation Area,2019,1
+976,Anacostia Park,2013,1
+977,Anacostia Park,2014,1
+978,Anacostia Park,2016,1
+979,Anacostia Park,2018,1
+980,Anacostia Park,2019,1
+981,Anacostia Park,2020,1
+982,Apostle Islands National Lakeshore,2007,1
+983,Apostle Islands National Lakeshore,2010,1
+984,Apostle Islands National Lakeshore,2011,1
+985,Apostle Islands National Lakeshore,2012,1
+986,Apostle Islands National Lakeshore,2016,1
+987,Big Bend National Park,2021,1
+988,Big Cypress National Preserve,2015,1
+989,Buffalo National River,2020,1
+990,Bighorn Canyon National Recreation Area,2016,1
+991,Biscayne National Park,2010,1
+992,Biscayne National Park,2016,1
+993,Biscayne National Park,2018,1
+994,Biscayne National Park,2020,1
+995,Black Canyon Of The Gunnison National Park,2007,1
+996,Black Canyon Of The Gunnison National Park,2017,1
+997,Black Canyon Of The Gunnison National Park,2019,1
+998,Black Canyon Of The Gunnison National Park,2021,1
+999,Blue Ridge Parkway,2022,1
+1000,Blue Ridge Parkway,2023,1
+1001,Bluestone National Scenic River,2009,1
+1002,Boston National Historical Park,2016,1
+1003,Bryce Canyon National Park,2011,1
+1004,Bryce Canyon National Park,2015,1
+1005,Bryce Canyon National Park,2017,1
+1006,Buck Island Reef National Monument,2016,1
+1007,Buffalo National River,2007,1
+1008,Buffalo National River,2012,1
+1009,Buffalo National River,2017,1
+1010,Biscayne National Park,2008,1
+1011,Bighorn Canyon National Recreation Area,2010,1
+1012,Big Cypress National Preserve,2016,1
+1013,Big Thicket National Preserve,2022,1
+1014,Big Cypress National Preserve,2017,1
+1015,Big Cypress National Preserve,2019,1
+1016,Big Cypress National Preserve,2020,1
+1017,Big Cypress National Preserve,2023,1
+1018,Big South Fork National River and Recreation Area,2007,1
+1019,Big South Fork National River and Recreation Area,2008,1
+1020,Big South Fork National River and Recreation Area,2011,1
+1021,Big South Fork National River and Recreation Area,2012,1
+1022,Big South Fork National River and Recreation Area,2015,1
+1023,Big South Fork National River and Recreation Area,2018,1
+1024,Big South Fork National River and Recreation Area,2019,1
+1025,Big South Fork National River and Recreation Area,2020,1
+1026,Big South Fork National River and Recreation Area,2022,1
+1027,Big Thicket National Preserve,2007,1
+1028,Big Thicket National Preserve,2009,1
+1029,Big Thicket National Preserve,2013,1
+1030,Big Thicket National Preserve,2014,1
+1031,Big Thicket National Preserve,2017,1
+1032,Big Thicket National Preserve,2021,1
+1033,Dinosaur National Monument,2018,1
+1034,Dinosaur National Monument,2020,1
+1035,National Capital Parks-East,2017,1
+1036,Joshua Tree National Park,2023,1
+1037,Kenilworth Park & Aquatic Gardens,2014,1
+1038,Kenilworth Park & Aquatic Gardens,2015,1
+1039,Kenilworth Park & Aquatic Gardens,2020,1
+1040,Kennesaw Mountain National Battlefield Park,2014,1
+1041,Kennesaw Mountain National Battlefield Park,2016,1
+1042,Kings Mountain National Military Park,2018,1
+1043,Klondike Gold Rush National Historical Park,2019,1
+1044,Lake Clark National Park & Preserve,2016,1
+1045,Lake Clark National Park & Preserve,2017,1
+1046,Lake Meredith National Recreation Area,2007,1
+1047,Lake Meredith National Recreation Area,2011,1
+1048,Lake Meredith National Recreation Area,2016,1
+1049,Lake Meredith National Recreation Area,2019,1
+1050,Lake Meredith National Recreation Area,2020,1
+1051,Lake Meredith National Recreation Area,2021,1
+1052,Lake Meredith National Recreation Area,2022,1
+1053,Lake Roosevelt National Recreation Area,2009,1
+1054,Lake Roosevelt National Recreation Area,2010,1
+1055,Lake Roosevelt National Recreation Area,2014,1
+1056,Kaloko-Honokohau National Historical Park,2014,1
+1057,Joshua Tree National Park,2022,1
+1058,Lassen Volcanic National Park,2009,1
+1059,Joshua Tree National Park,2020,1
+1060,Independence National Historical Park,2015,1
+1061,Independence National Historical Park,2017,1
+1062,Independence National Historical Park,2018,1
+1063,Indiana Dunes National Park,2010,1
+1064,Indiana Dunes National Park,2013,1
+1065,Indiana Dunes National Park,2014,1
+1066,Indiana Dunes National Park,2015,1
+1067,Indiana Dunes National Park,2016,1
+1068,Indiana Dunes National Park,2017,1
+1069,Indiana Dunes National Park,2019,1
+1070,Indiana Dunes National Park,2021,1
+1071,Isle Royale National Park,2013,1
+1072,Isle Royale National Park,2019,1
+1073,Jean Lafitte National Historical Park & Preserve,2017,1
+1074,Jean Lafitte National Historical Park & Preserve,2021,1
+1075,Joshua Tree National Park,2009,1
+1076,Joshua Tree National Park,2012,1
+1077,Joshua Tree National Park,2015,1
+1078,Joshua Tree National Park,2016,1
+1079,Lake Roosevelt National Recreation Area,2021,1
+1080,Lassen Volcanic National Park,2017,1
+1081,Hovenweep National Monument,2014,1
+1082,Missouri National Recreational River,2016,1
+1083,Missouri National Recreational River,2022,1
+1084,Mojave National Preserve,2008,1
+1085,Mojave National Preserve,2009,1
+1086,Mojave National Preserve,2011,1
+1087,Mojave National Preserve,2012,1
+1088,Mojave National Preserve,2013,1
+1089,Mojave National Preserve,2016,1
+1090,Mojave National Preserve,2017,1
+1091,Monocacy National Battlefield,2018,1
+1092,Morristown National Historical Park,2017,1
+1093,Morristown National Historical Park,2022,1
+1094,Mount Rushmore National Memorial,2012,1
+1095,Mount Rushmore National Memorial,2014,1
+1096,Mount Rushmore National Memorial,2016,1
+1097,Mount Rushmore National Memorial,2021,1
+1098,Muir Woods National Monument,2019,1
+1099,Natchez Trace Parkway,2012,1
+1100,National Capital Parks-East,2007,1
+1101,National Capital Parks-East,2015,1
+1102,Missouri National Recreational River,2017,1
+1103,Missouri National Recreational River,2015,1
+1104,Lava Beds National Monument,2016,1
+1105,Mississippi National River & Recreation Area,2021,1
+1106,Lincoln Memorial,2015,1
+1107,Lincoln Memorial,2021,1
+1108,Little Bighorn Battlefield National Monument,2018,1
+1109,Little Bighorn Battlefield National Monument,2020,1
+1110,Little River Canyon National Preserve,2013,1
+1111,Little River Canyon National Preserve,2018,1
+1112,Little River Canyon National Preserve,2023,1
+1113,Lyndon B Johnson National Historical Park,2016,1
+1114,Mammoth Cave National Park,2008,1
+1115,Mammoth Cave National Park,2022,1
+1116,Manassas National Battlefield Park,2018,1
+1117,Manassas National Battlefield Park,2021,1
+1118,Manassas National Battlefield Park,2022,1
+1119,Mesa Verde National Park,2014,1
+1120,Mesa Verde National Park,2017,1
+1121,Minute Man National Historical Park,2015,1
+1122,Minute Man National Historical Park,2021,1
+1123,Mississippi National River & Recreation Area,2018,1
+1124,Mississippi National River & Recreation Area,2020,1
+1125,Independence National Historical Park,2014,1
+1126,Hot Springs National Park,2020,1
+1127,Dry Tortugas National Park,2014,1
+1128,Fort Bowie National Historic Site,2015,1
+1129,Fort Foote Park,2019,1
+1130,Fort Pulaski National Monument,2018,1
+1131,Fort Pulaski National Monument,2020,1
+1132,Fort Vancouver National Historic Site,2016,1
+1133,Fort Washington Park,2015,1
+1134,Fredericksburg & Spotsylvania National Military Park,2017,1
+1135,Fredericksburg & Spotsylvania National Military Park,2023,1
+1136,Friendship Hill National Historic Site,2012,1
+1137,Gateway National Recreation Area,2009,1
+1138,Gateway National Recreation Area,2013,1
+1139,Gateway National Recreation Area,2018,1
+1140,Gateway National Recreation Area,2023,1
+1141,Gauley River National Recreation Area,2008,1
+1142,Gauley River National Recreation Area,2009,1
+1143,Gauley River National Recreation Area,2012,1
+1144,Gauley River National Recreation Area,2017,1
+1145,Gauley River National Recreation Area,2018,1
+1146,George Washington Memorial Parkway,2008,1
+1147,George Washington Memorial Parkway,2011,1
+1148,Fort Foote Park,2014,1
+1149,Fort Bowie National Historic Site,2013,1
+1150,George Washington Memorial Parkway,2023,1
+1151,Florissant Fossil Beds National Monument,2018,1
+1152,Dry Tortugas National Park,2017,1
+1153,Dry Tortugas National Park,2018,1
+1154,Dry Tortugas National Park,2022,1
+1155,Eisenhower National Historic Site,2019,1
+1156,El Malpais National Monument,2021,1
+1157,El Malpais National Monument,2022,1
+1158,El Malpais National Monument,2023,1
+1159,El Morro National Monument,2014,1
+1160,Everglades National Park,2010,1
+1161,Everglades National Park,2012,1
+1162,Everglades National Park,2013,1
+1163,Everglades National Park,2015,1
+1164,Everglades National Park,2020,1
+1165,Everglades National Park,2022,1
+1166,Fire Island National Seashore,2017,1
+1167,Fire Island National Seashore,2019,1
+1168,Fire Island National Seashore,2021,1
+1169,First State National Historical Park,2019,1
+1170,First State National Historical Park,2023,1
+1171,George Washington Memorial Parkway,2013,1
+1172,Gettysburg National Military Park,2015,1
+1173,Hot Springs National Park,2017,1
+1174,Gulf Islands National Seashore,2010,1
+1175,Gulf Islands National Seashore,2022,1
+1176,Haleakala National Park,2008,1
+1177,Haleakala National Park,2011,1
+1178,Haleakala National Park,2013,1
+1179,Haleakala National Park,2014,1
+1180,Haleakala National Park,2017,1
+1181,Haleakala National Park,2019,1
+1182,Harpers Ferry National Historical Park,2008,1
+1183,Harpers Ferry National Historical Park,2013,1
+1184,Harpers Ferry National Historical Park,2015,1
+1185,Harpers Ferry National Historical Park,2016,1
+1186,Harpers Ferry National Historical Park,2020,1
+1187,Harpers Ferry National Historical Park,2021,1
+1188,Hawaii Volcanoes National Park,2010,1
+1189,Hawaii Volcanoes National Park,2011,1
+1190,Hawaii Volcanoes National Park,2019,1
+1191,Home Of Franklin D Roosevelt National Historic Site,2015,1
+1192,Hopewell Culture National Historical Park,2016,1
+1193,Hot Springs National Park,2009,1
+1194,Gulf Islands National Seashore,2013,1
+1195,Gulf Islands National Seashore,2008,1
+1196,Gila Cliff Dwellings National Monument,2007,1
+1197,Gulf Islands National Seashore,2007,1
+1198,Glacier Bay National Park & Preserve,2019,1
+1199,Glen Echo Park,2007,1
+1200,Golden Gate National Recreation Area,2012,1
+1201,Golden Spike National Historical Park,2019,1
+1202,Golden Spike National Historical Park,2021,1
+1203,Governors Island National Monument,2017,1
+1204,Grand Teton National Park,2023,1
+1205,Great Basin National Park,2015,1
+1206,Great Falls Park,2022,1
+1207,Great Falls Park,2023,1
+1208,Great Sand Dunes National Park & Preserve,2009,1
+1209,Great Sand Dunes National Park & Preserve,2010,1
+1210,Great Sand Dunes National Park & Preserve,2017,1
+1211,Great Sand Dunes National Park & Preserve,2018,1
+1212,Great Sand Dunes National Park & Preserve,2019,1
+1213,Acadia National Park,2009,1
+1214,Guadalupe Mountains National Park,2019,1
+1215,Guadalupe Mountains National Park,2020,1
+1216,Guadalupe Mountains National Park,2022,1
+1217,Greenbelt Park,2017,1
