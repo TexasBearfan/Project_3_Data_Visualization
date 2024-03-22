@@ -12,17 +12,18 @@ function markersize(deaths){
 }
 function determineColor(deaths){
     if(deaths<10){
-        color='blue'
+        color='green'
     }
     else if(deaths<20){
-        color='purple'
+        color='yellow'
     }
     else if(deaths<100){
-        color='red'
+        color='orange'
     }
     else{
-        color='white'
+        color='red'
     }
+    return color;
 }
 
 Coordinate_array=[]
@@ -39,10 +40,12 @@ d3.json(state_url).then(function(item){
 
         
         if(park_status==true){
+            if(!name_array.includes(row.fullName)){
             for(let m=0;m<parks.length;m++){
                 if(parks[m]==row.fullName){
                     death_count=count_array[m]
-                    
+                    console.log(death_count)
+                    name_array.push(row.fullName)
                 }
             }
             lat=row.latitude
@@ -51,12 +54,11 @@ d3.json(state_url).then(function(item){
             circle_group.addLayer(L.circle([lat,long],{
                 stroke:false,
                 fillOpacity:0.75,
-                color:'black',
-                fillColor:determineColor(death_count),
+                color:determineColor(death_count),
                 radius:markersize(death_count)
-            })).bindPopup(row.name+" "+death_count);
+            }).bindPopup(row.name+" "+death_count));
         }
-    }
+    }}
     
 });
 }
