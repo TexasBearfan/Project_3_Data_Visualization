@@ -36,13 +36,12 @@
 
 </head>
 <body>
-  <h1>Deadliest Parks In America</h1>
+  <h1> </h1>
   <div id="map"></div>
-  <p>This is our First Plot</p>
 
+<!-- Code for the pie charts -->
   <div id="chartContainer">
-    <p>Top 5 National Parks and Their Causes of Death</p>
-    <!-- Adjust the width and height attributes of the canvas element -->
+    <h2>Top 5 National Parks and Their Causes of Death</h2>
     <canvas id="myPieChart" width="100" height="100"></canvas>
     <select id="chartSelector">
       <option value="0">Lake Mead National Recreation Area</option>
@@ -51,9 +50,23 @@
       <option value="3">Natchez Trace Parkway</option>
       <option value="4">Golden Gate National Recreation Area</option>
     </select>
+    <p>Across the five parks, on average, the top three causues of death from most to least are drowning, motor vehicles, and undetermined. The causes of death that were lease likely to occur and often only had one instance per park include homicide, vessel incident, and avalanche.</p>
   </div>
 
+  <!-- Code for the line charts -->
+  <div id="lineChart">
+    <h2>Most Dangerous Parks</h2>
+    <select id="parkSelect">
+      <option value="0">Lake Mead National Recreation Area</option>
+      <option value="1">North Cascades National Park</option>
+      <option value="2">Blue Ridge Recreation Area</option>
+      <option value="3">Yellowstone National Park</option>
+      <option value="4">Yosemite National Park</option>
+    </select>
+    <canvas id="myLineChart"></canvas>
+    <p>Across the five parks, per capita of yearly visitors, Norh Cascades National Park has the most deaths of all parks. Of the top five, Yosemite and Yellowstone of the most variable trends. Data quality also really varied around the year 2020, likely due to the pandemic.</p>
   </div>
+
   <!-- Our JavaScript -->
   <script type="text/javascript" src="static/js/Arrays.js"></script>
   <script type="text/javascript" src="static/js/config.js"></script>

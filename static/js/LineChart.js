@@ -1,65 +1,138 @@
 $(document).ready(function() {
-    var ctx = document.getElementById('myLineChart').getContext('2d');
-    var lineChart;
+  var ctx = document.getElementById('myLineChart').getContext('2d');
+  var lineChart;
 
-    // Define chart data for each dataset
-    var chartData = [
-      {
-        label: 'Lake Mead National Recreation Area',
-        data: []
+  // Define chart data for each dataset
+  var chartData = [
+    {
+      label: 'Lake Mead National Recreation Area',
+      data: [1.1807709095832548,
+        1.4470137122965778,
+        2.2168065493332696,
+        3.1070119893943557,
+        2.813958861797413,
+        2.5455660296758906,
+        2.2065612413735276,
+        3.024684449794775,
+        2.7403022416357414,
+        2.6477548223628258,
+        3.2985132966242636,
+        2.5069409277634205,
+        2.800355085024781,
+        1.8711384380484775,
+        3.4194895649015176,
+        4.302443106464313,
+        1.0347430500189616]
+    },
+    {
+      label: 'North Cascades National Park',
+      data: [102.38558410975735,
+        213.6181575433912,
+        37.07548568886252,
+        40.55314489638671,
+        52.061640982923784,
+        37.12641544458882,
+        46.24705175045091,
+        83.80473496752566,
+        48.36291531653528,
+        131.90001978500297,
+        99.71746717633371,
+        52.345058626465665,
+        99.48928831995754]
+    },
+    {
+      label: 'Blue Ridge Recreation Area',
+      data: [1.9039501571234867,
+        0.3034729136768262,
+        1.9229791892445027,
+        0.5892185959745765,
+        0.580091996789771,
+        0.9410200029485293,
+        1.4230888770234902,
+        2.6844261795002575,
+        2.3489744495002207,
+        0.7287701954367325,
+        1.7010935601458081,
+        2.4873839884107807,
+        0.20575107165445672,
+        0.30392901190854654,
+        0.22215399626159255]
+    },
+    {
+      label: 'Yellowstone National Park',
+      data: [1.9039501571234867,
+        2.0556866139618995,
+        0.3034729136768262,
+        1.9229791892445027,
+        0.5892185959745765,
+        0.580091996789771,
+        0.9410200029485293,
+        1.4230888770234902,
+        2.6844261795002575,
+        2.3489744495002207,
+        0.7287701954367325,
+        1.7010935601458081,
+        2.4873839884107807,
+        1.3465675300326184,
+        0.20575107165445672,
+        0.30392901190854654,
+        0.22215399626159255]
+    },
+    {
+      label: 'Yosemite National Park',
+      data: [1.7126083367490355,
+        0.5828331168108305,
+        2.4080447960546594,
+        1.537906314848383,
+        3.796129618086584,
+        2.3355973056549484,
+        1.3545763413489034,
+        2.8331223944932344,
+        4.819025125674151,
+        2.9827786293058396,
+        5.072759512000535,
+        4.738821120975619,
+        3.391469910539807,
+        1.8250423181687525,
+        2.1812926885795694,
+        1.2830151883337995]
+    }
+  ];
+
+  // Initialize the first chart
+  createLineChart(0);
+
+  // Dropdown change event listener
+  $('#parkSelect').change(function() {
+    var selectedDataset = parseInt($(this).val());
+    createLineChart(selectedDataset);
+  });
+
+  // Function to create a line chart
+  function createLineChart(index) {
+    if (lineChart) {
+      lineChart.destroy();
+    }
+
+    lineChart = new Chart(ctx, {
+      type: 'line',
+      data: {
+        labels: ['2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020', '2021', '2022', '2023'],
+        datasets: [{
+          label: chartData[index].label,
+          data: chartData[index].data,
+          backgroundColor: 'rgba(0, 0, 0, 0.2)',
+          borderColor: 'rgba(0, 0, 0, 1)',
+          borderWidth: 1
+        }]
       },
-      {
-        label: 'Grand Canyon National Park',
-        data: [10, 15, 6, 8, 5, 9, 12]
-      },
-      {
-        label: 'Yosemite National Park',
-        data: [5, 8, 12, 15, 18, 20, 22]
-      },
-      {
-        label: 'Natchez Trace Parkway',
-        data: [8, 10, 7, 12, 15, 11, 9]
-      },
-      {
-        label: 'Golden Gate National Recreation Area',
-        data: [15, 20, 18, 22, 25, 30, 28]
-      }
-    ];
-
-    // Initialize the first chart
-    createLineChart(0);
-
-    // Dropdown change event listener
-    $('#parkSelect').change(function() {
-      var selectedDataset = parseInt($(this).val());
-      createLineChart(selectedDataset);
-    });
-
-    // Function to create a line chart
-    function createLineChart(index) {
-      if (lineChart) {
-        lineChart.destroy();
-      }
-
-      lineChart = new Chart(ctx, {
-        type: 'line',
-        data: {
-          labels: ['2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020', '2021', '2022', '2023'],
-          datasets: [{
-            label: chartData[index].label,
-            data: chartData[index].data,
-            backgroundColor: 'rgba(255, 99, 132, 0.2)',
-            borderColor: 'rgba(255, 99, 132, 1)',
-            borderWidth: 1
-          }]
-        },
-        options: {
-          scales: {
-            y: {
-              beginAtZero: true
-            }
+      options: {
+        scales: {
+          y: {
+            beginAtZero: true
           }
         }
-      });
-    }
-  });
+      }
+    });
+  }
+});
