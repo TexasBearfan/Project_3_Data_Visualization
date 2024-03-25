@@ -72,7 +72,7 @@ let overlayMaps={
 }
 let myMap = L.map("map", {
     center: [30.7, -100.5],
-    zoom: 3,
+    zoom: 4,
     layers:[street,markers]
   });
   L.control.layers(baseMaps, overlayMaps, {

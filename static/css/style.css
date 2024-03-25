@@ -15,3 +15,10 @@ html {
   align-items: center;
   height: 75%;
 }
+#lineChart {
+  height: 75%;
+  padding:150px;
+  align-items: center;
+  flex-direction: column;
+  align-items: center;
+}
