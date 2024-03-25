@@ -54,9 +54,10 @@ d3.json(state_url).then(function(item){
             circle_group.addLayer(L.circle([lat,long],{
                 stroke:false,
                 fillOpacity:0.75,
-                color:determineColor(death_count),
+                fillColor:determineColor(death_count),
+                color:'black',
                 radius:markersize(death_count)
-            }).bindPopup(row.name+" "+death_count));
+            }).bindPopup('<h1>'+row.name+"</h1> <hr> <h3>Death Toll: "+death_count+'</h3>'));
         }
     }}
     
